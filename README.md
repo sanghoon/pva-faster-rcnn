@@ -85,11 +85,11 @@ If you want to cite this work in your publication:
 
     |  Model | Google Drive |
     | ------ | ---- |
-    | PVANet for VOC2007 | [link](https://drive.google.com/open?id=0Bw_6VpHzQoMVRGZOSEctOEVMLXc) |
-    | PVANet for VOC2012 | [link](https://drive.google.com/open?id=0Bw_6VpHzQoMVa3M0Zm5zNnEtQUE) |
-    | PVANet for VOC2012 (compressed) | [link](https://drive.google.com/open?id=0Bw_6VpHzQoMVZU1BdEJDZG5MVXM) |
-    | PVANet for ILSVRC2012 (ImageNet) | [link](https://drive.google.com/open?id=0Bw_6VpHzQoMVTjctVVhjMXo1X3c) |
-    | PVANet pre-trained | [link](https://drive.google.com/open?id=0Bw_6VpHzQoMVak5FVFBWU0Uyb3M) |
+    | PVANet for VOC2007 | [link](https://drive.google.com/file/d/0Bw_6VpHzQoMVRGZOSEctOEVMLXc/view?usp=sharing&resourcekey=0-V1KjyzIboCo40TgqUlsBFQ) |
+    | PVANet for VOC2012 | [link](https://drive.google.com/file/d/0Bw_6VpHzQoMVa3M0Zm5zNnEtQUE/view?usp=sharing&resourcekey=0-luUPOg9MSnrw_A9v1XkhPA) |
+    | PVANet for VOC2012 (compressed) | [link](https://drive.google.com/file/d/0Bw_6VpHzQoMVZU1BdEJDZG5MVXM/view?usp=sharing&resourcekey=0-CrLfgh4hqTg8d8KMDM7IDw) |
+    | PVANet for ILSVRC2012 (ImageNet) | [link](https://drive.google.com/file/d/0Bw_6VpHzQoMVTjctVVhjMXo1X3c/view?usp=sharing&resourcekey=0-sA75fRqcGHKmCXw8Svka4w) |
+    | PVANet pre-trained | [link](https://drive.google.com/file/d/0Bw_6VpHzQoMVak5FVFBWU0Uyb3M/view?usp=sharing&resourcekey=0-63zxVAnC2CXNGqnmnTNWsA) |
 
 ### How to run the demo
 
