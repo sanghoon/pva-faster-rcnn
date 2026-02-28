@@ -2,6 +2,10 @@
 by Sanghoon Hong, Byungseok Roh, Kye-hyeon Kim, Yeongjae Cheon, Minje Park (Intel Imaging and Camera Technology)
 Presented in [EMDNN2016](http://allenai.org/plato/emdnn/), a NIPS2016 workshop ([arXiv link](https://arxiv.org/abs/1611.08588))
 
+> ⚠️ **Notice: Unmaintained Repository**
+> 
+> Please note that this repository is no longer actively maintained. We are not accepting pull requests or responding to new issues. The code is provided as-is.
+
 ### Introduction
 
 This repository is a fork from [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn) and demonstrates the performance of PVANet.
